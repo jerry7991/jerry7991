@@ -17,7 +17,7 @@
 
 - 📄 Know about my experiences: [LinkedIn](https://www.linkedin.com/in/anupssingh/)
 
-- 🏆 Knight on LeetCode — [top 3.81% globally](https://leetcode.com/u/faltu_admi/)
+- 🏆 Knight on LeetCode — [top 3.81% globally](https://leetcode.com/u/QuantumBot/)
 
 ---
 
@@ -26,8 +26,8 @@
   <a href="https://www.linkedin.com/in/anupssingh/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anupssingh" height="30" width="40" />
   </a>
-  <a href="https://leetcode.com/u/faltu_admi/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="faltu_admi" height="30" width="40" />
+  <a href="https://leetcode.com/u/QuantumBot/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="QuantumBot" height="30" width="40" />
   </a>
   <a href="https://stackoverflow.com/users/jerry7991" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="jerry7991" height="30" width="40" />
@@ -66,7 +66,7 @@
 <h3 align="center">LeetCode</h3>
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/faltu_admi?theme=dark&font=Baloo_2&ext=contest" alt="LeetCode Stats" />
+  <img src="https://leetcard.jacoblin.cool/QuantumBot?theme=dark&font=Baloo_2&ext=contest" alt="LeetCode Stats" />
 </p>
 
 <p align="center">
