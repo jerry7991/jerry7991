@@ -1,63 +1,70 @@
-## Hey, I'm Anup 👋
+<h1 align="center">Hi 👋, I'm Anup Singh</h1>
+<h3 align="center">Senior Software Engineer — distributed systems · mobile platform · AI tooling</h3>
 
-Senior Software Engineer — distributed systems, mobile platform engineering, AI tooling.
-
----
-
-## Things I've shipped
-
-🐢→⚡ **63% reduction in service initialization latency** — traced bottleneck across 5 subsystems, owned fix end-to-end  
-🍎 **Fixed a silent iOS 18+ crash on enterprise apps** — recursive UI hierarchy scanner, cross-layer fix across 3 repos, feature-flagged  
-🤖 **AI agent autonomously resolving ~25% of inbound issues** — grounded on structured knowledge base + 6 live data integrations via MCP  
-💾 **86% reduction in memory-related incidents** — traced + fixed deep memory leak in a high-throughput Ruby on Rails service  
-💰 **~25% infra cost reduction vs 23% platform growth** — telemetry cleanup + AWS/CDN right-sizing  
-🔕 **27% reduction in operational alert noise** — threshold re-engineering across distributed microservices, not just silencing  
-🌐 **[transproxy](https://github.com/jerry7991/transproxy)** — transparent TCP proxy intercepting both proxy-aware and proxy-unaware traffic on macOS (open-source)
-
----
-
-## Stack
-
-![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=flat&logo=ruby&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Swift](https://img.shields.io/badge/Swift-F05138?style=flat&logo=swift&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
-![iOS](https://img.shields.io/badge/iOS-000000?style=flat&logo=apple&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white)
-![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat&logo=elasticsearch&logoColor=white)
-
----
-
-## AI
-
-Configured 6 MCP servers for the team · Built AI debug agent (25% issue deflection) · Structured AI-optimized knowledge base · 5 PoCs shipped
-
----
-
-## Building
-
-| | |
-|--|--|
-| [nebula_queue](https://github.com/jerry7991/nebula_queue) 🚧 | Redis-backed background job processor — Sidekiq-style Worker/Dispatcher architecture in Ruby |
-| [transproxy](https://github.com/jerry7991/transproxy) | Transparent TCP proxy for macOS — pfctl + Privoxy |
-| [apple-unified-logging-sys](https://github.com/jerry7991/apple-unified-logging-sys) | iOS Unified Logging System (NSLog, os_log) deep dive |
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jerry7991&show_icons=true&theme=dark&hide_border=true&count_private=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jerry7991&layout=compact&theme=dark&hide_border=true" height="150" />
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=jerry7991&label=Profile%20views&color=0e75b6&style=flat" alt="jerry7991" />
 </p>
+
+- 🔭 Currently building **[nebula_queue](https://github.com/jerry7991/nebula_queue)** — a Redis-backed background job processor with Sidekiq-style Worker/Dispatcher architecture
+
+- 🌱 Deep-diving into distributed queue design, AI agent grounding, and iOS/Android platform internals
+
+- ⚡ Some things I've shipped: **63% faster service init**, **86% memory incident reduction**, **AI agent deflecting ~25% of inbound issues**, **27% alert noise cut**
+
+- 💬 Ask me about **iOS/Android internals, Rails at scale, Kubernetes, MCP-based AI agents**
+
+- 📄 Know about my experiences: [LinkedIn](https://www.linkedin.com/in/anupssingh/)
+
+- 🏆 Knight on LeetCode — [top 3.81% globally](https://leetcode.com/u/faltu_admi/)
+
+---
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  <a href="https://www.linkedin.com/in/anupssingh/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anupssingh" height="30" width="40" />
+  </a>
+  <a href="https://leetcode.com/u/faltu_admi/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="faltu_admi" height="30" width="40" />
+  </a>
+  <a href="https://stackoverflow.com/users/jerry7991" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="jerry7991" height="30" width="40" />
+  </a>
+</p>
+
+---
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
+  <a href="https://www.ruby-lang.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
+  <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
+  <a href="https://swift.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/></a>
+  <a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a>
+  <a href="https://isocpp.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a>
+  <a href="https://kubernetes.io" target="_blank"><img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/></a>
+  <a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></a>
+  <a href="https://aws.amazon.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/></a>
+  <a href="https://redis.io" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/></a>
+  <a href="https://www.postgresql.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/></a>
+  <a href="https://developer.apple.com/swift/" target="_blank"><img src="https://www.vectorlogo.zone/logos/apple/apple-icon.svg" alt="ios" width="40" height="40"/></a>
+  <a href="https://developer.android.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/></a>
+  <a href="https://www.elastic.co" target="_blank"><img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/></a>
+  <a href="https://grafana.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/></a>
+</p>
+
+---
+
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jerry7991&show_icons=true&locale=en&layout=compact&theme=dark&hide_border=true" alt="jerry7991" />
+</p>
+
+<p>&nbsp;
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jerry7991&show_icons=true&locale=en&theme=dark&hide_border=true&count_private=true" alt="jerry7991" />
+</p>
+
+<br clear="both"/>
 
 <p align="center">
   <img src="https://leetcode-badge-sage.vercel.app/badge/faltu_admi?theme=dark" alt="LeetCode" />
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/anupssingh/">LinkedIn</a> · <a href="https://leetcode.com/u/faltu_admi/">LeetCode</a>
 </p>
