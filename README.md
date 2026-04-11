@@ -7,11 +7,11 @@
 
 - 🧠 I believe **understanding the problem is the work** — code is just the output. I'd rather spend a week in the design than a day undoing wrong assumptions.
 
+- 🤖 Building **[nova-thesis](https://github.com/jerry7991/nova-thesis)** — an AI agent plugin that *refuses to accept solutions at face value*. Challenges every implementation across Correctness · Completeness · Scalability · Security · Maintainability before signing off. Every solution is a thesis. Defend it.
+
 - 🔭 Building **[nebula_queue](https://github.com/jerry7991/nebula_queue)** — Redis-backed background job processor with Sidekiq-style Worker/Dispatcher architecture
 
 - 🛠️ Also **[transproxy](https://github.com/jerry7991/transproxy)** — dual-path transparent proxy on macOS (pf + Privoxy) that routes proxy-unaware apps through inspection *without* TLS interception. The tricky bit: `no rdr` to exempt apps that already honor proxy settings; `rdr pass` to intercept everything else. Both paths coexist, nothing breaks.
-
-- 🤖 Building **[nova-thesis](https://github.com/jerry7991/nova-thesis)** — an AI agent plugin that *refuses to accept solutions at face value*. Challenges every implementation across Correctness · Completeness · Scalability · Security · Maintainability before signing off. Every solution is a thesis. Defend it.
 
 - ⚡ Some things I've shipped: **63% faster service init**, **86% memory incident reduction**, **AI agent deflecting ~25% of inbound issues**, **27% alert noise cut**
 
