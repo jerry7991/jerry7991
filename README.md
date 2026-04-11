@@ -67,6 +67,12 @@
 
 <br clear="both"/>
 
+<h3 align="center">LeetCode</h3>
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/faltu_admi?theme=dark&font=Baloo_2" alt="LeetCode Stats" />
+  <img src="https://leetcard.jacoblin.cool/faltu_admi?theme=dark&font=Baloo_2&ext=contest" alt="LeetCode Stats" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Solutions%20Shared-90-orange?style=flat-square&logo=leetcode&logoColor=white" alt="Solutions Shared" />
+  <img src="https://img.shields.io/badge/Solution%20Views-58K-blue?style=flat-square&logo=leetcode&logoColor=white" alt="Solution Views" />
+  <img src="https://img.shields.io/badge/Reputation-916-green?style=flat-square&logo=leetcode&logoColor=white" alt="Reputation" />
 </p>
