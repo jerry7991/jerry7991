@@ -5,13 +5,15 @@
   <img src="https://komarev.com/ghpvc/?username=jerry7991&label=Profile%20views&color=0e75b6&style=flat" alt="jerry7991" />
 </p>
 
-- 🔭 Currently building **[nebula_queue](https://github.com/jerry7991/nebula_queue)** — a Redis-backed background job processor with Sidekiq-style Worker/Dispatcher architecture
+- 🧠 I believe **understanding the problem is the work** — code is just the output. I'd rather spend a week in the design than a day undoing wrong assumptions.
 
-- 🌱 Deep-diving into distributed queue design, AI agent grounding, and iOS/Android platform internals
+- 🔭 Building **[nebula_queue](https://github.com/jerry7991/nebula_queue)** — Redis-backed background job processor with Sidekiq-style Worker/Dispatcher architecture
+
+- 🛠️ Also **[transproxy](https://github.com/jerry7991/transproxy)** — dual-path transparent proxy on macOS (pf + Privoxy) that routes proxy-unaware apps through inspection *without* TLS interception. The tricky bit: `no rdr` to exempt apps that already honor proxy settings; `rdr pass` to intercept everything else. Both paths coexist, nothing breaks.
 
 - ⚡ Some things I've shipped: **63% faster service init**, **86% memory incident reduction**, **AI agent deflecting ~25% of inbound issues**, **27% alert noise cut**
 
-- 💬 Ask me about **iOS/Android internals, Rails at scale, Kubernetes, MCP-based AI agents**
+- 💬 Ask me about **iOS/Android internals, network proxying, Rails at scale, Kubernetes, MCP-based AI agents**
 
 - 📄 Know about my experiences: [LinkedIn](https://www.linkedin.com/in/anupssingh/)
 
