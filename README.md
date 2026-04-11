@@ -1,18 +1,18 @@
 ## Hey, I'm Anup 👋
 
-Senior Software Engineer — mobile infra, distributed systems, AI tooling.
+Senior Software Engineer — distributed systems, mobile platform engineering, AI tooling.
 
 ---
 
 ## Things I've shipped
 
-🐢→⚡ **63% faster device session startup** — traced bottleneck across 5 subsystems, owned fix end-to-end  
-🍎 **Fixed silent iOS 18+ crash on enterprise apps** — recursive UI hierarchy scanner, cross-layer, feature-flagged  
-🤖 **AI debug agent handling ~25% of support tickets autonomously** — grounded on 53-version knowledge base + 6 MCP integrations  
-💾 **86% reduction in memory-related incidents** — traced + fixed deep memory leak in high-throughput Rails service  
+🐢→⚡ **63% reduction in service initialization latency** — traced bottleneck across 5 subsystems, owned fix end-to-end  
+🍎 **Fixed a silent iOS 18+ crash on enterprise apps** — recursive UI hierarchy scanner, cross-layer fix across 3 repos, feature-flagged  
+🤖 **AI agent autonomously resolving ~25% of inbound issues** — grounded on structured knowledge base + 6 live data integrations via MCP  
+💾 **86% reduction in memory-related incidents** — traced + fixed deep memory leak in a high-throughput Ruby on Rails service  
 💰 **~25% infra cost reduction vs 23% platform growth** — telemetry cleanup + AWS/CDN right-sizing  
-🔕 **27% alert noise reduction** — threshold re-engineering across 6 microservices, not just silencing  
-🌐 **[transproxy](https://github.com/jerry7991/transproxy)** — transparent TCP proxy for proxy-unaware iOS apps (pfctl + Privoxy, open-source)
+🔕 **27% reduction in operational alert noise** — threshold re-engineering across distributed microservices, not just silencing  
+🌐 **[transproxy](https://github.com/jerry7991/transproxy)** — transparent TCP proxy intercepting both proxy-aware and proxy-unaware traffic on macOS (open-source)
 
 ---
 
@@ -35,7 +35,7 @@ Senior Software Engineer — mobile infra, distributed systems, AI tooling.
 
 ## AI
 
-Configured 6 MCP servers for the team · Built debug agent (25% ticket automation) · 53-version AI-optimized KB · 5 PoCs shipped
+Configured 6 MCP servers for the team · Built AI debug agent (25% issue deflection) · Structured AI-optimized knowledge base · 5 PoCs shipped
 
 ---
 
@@ -43,9 +43,9 @@ Configured 6 MCP servers for the team · Built debug agent (25% ticket automatio
 
 | | |
 |--|--|
-| [nebula_queue](https://github.com/jerry7991/nebula_queue) 🚧 | Redis-backed background job processor — own Sidekiq-style architecture in Ruby |
-| [transproxy](https://github.com/jerry7991/transproxy) | Transparent TCP proxy for macOS iOS testing |
-| [apple-unified-logging-sys](https://github.com/jerry7991/apple-unified-logging-sys) | iOS Unified Logging System guide for cloud testing |
+| [nebula_queue](https://github.com/jerry7991/nebula_queue) 🚧 | Redis-backed background job processor — Sidekiq-style Worker/Dispatcher architecture in Ruby |
+| [transproxy](https://github.com/jerry7991/transproxy) | Transparent TCP proxy for macOS — pfctl + Privoxy |
+| [apple-unified-logging-sys](https://github.com/jerry7991/apple-unified-logging-sys) | iOS Unified Logging System (NSLog, os_log) deep dive |
 
 ---
 
