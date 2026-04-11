@@ -11,6 +11,8 @@
 
 - 🛠️ Also **[transproxy](https://github.com/jerry7991/transproxy)** — dual-path transparent proxy on macOS (pf + Privoxy) that routes proxy-unaware apps through inspection *without* TLS interception. The tricky bit: `no rdr` to exempt apps that already honor proxy settings; `rdr pass` to intercept everything else. Both paths coexist, nothing breaks.
 
+- 🤖 Building **[nova-thesis](https://github.com/jerry7991/nova-thesis)** — an AI agent plugin that *refuses to accept solutions at face value*. Challenges every implementation across Correctness · Completeness · Scalability · Security · Maintainability before signing off. Every solution is a thesis. Defend it.
+
 - ⚡ Some things I've shipped: **63% faster service init**, **86% memory incident reduction**, **AI agent deflecting ~25% of inbound issues**, **27% alert noise cut**
 
 - 💬 Ask me about **iOS/Android internals, network proxying, Rails at scale, Kubernetes, MCP-based AI agents**
