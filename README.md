@@ -57,22 +57,22 @@
 
 ---
 
-<p>
-  <img align="left" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jerry7991&theme=github_dark" alt="jerry7991 top langs" />
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jerry7991&theme=github_dark" alt="jerry7991 top langs" />
 </p>
 
-<p>&nbsp;
-  <img align="center" src="https://streak-stats.demolab.com/?user=jerry7991&theme=dark&hide_border=true" alt="jerry7991 streak" />
-</p>
-
-<br clear="both"/>
+---
 
 <h3 align="center">LeetCode</h3>
+
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/faltu_admi?theme=dark&font=Baloo_2&ext=contest" alt="LeetCode Stats" />
 </p>
+
 <p align="center">
   <img src="https://img.shields.io/badge/Solutions%20Shared-90-orange?style=flat-square&logo=leetcode&logoColor=white" alt="Solutions Shared" />
+  &nbsp;
   <img src="https://img.shields.io/badge/Solution%20Views-58K-blue?style=flat-square&logo=leetcode&logoColor=white" alt="Solution Views" />
+  &nbsp;
   <img src="https://img.shields.io/badge/Reputation-916-green?style=flat-square&logo=leetcode&logoColor=white" alt="Reputation" />
 </p>
