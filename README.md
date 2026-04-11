@@ -58,15 +58,15 @@
 ---
 
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jerry7991&show_icons=true&locale=en&layout=compact&theme=dark&hide_border=true" alt="jerry7991" />
+  <img align="left" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jerry7991&theme=github_dark" alt="jerry7991 top langs" />
 </p>
 
 <p>&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jerry7991&show_icons=true&locale=en&theme=dark&hide_border=true&count_private=true" alt="jerry7991" />
+  <img align="center" src="https://streak-stats.demolab.com/?user=jerry7991&theme=dark&hide_border=true" alt="jerry7991 streak" />
 </p>
 
 <br clear="both"/>
 
 <p align="center">
-  <img src="https://leetcode-badge-sage.vercel.app/badge/faltu_admi?theme=dark" alt="LeetCode" />
+  <img src="https://leetcard.jacoblin.cool/faltu_admi?theme=dark&font=Baloo_2" alt="LeetCode Stats" />
 </p>
