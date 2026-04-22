@@ -17,7 +17,7 @@
 
 - 💬 Ask me about **iOS/Android internals, network proxying, Rails at scale, Kubernetes, MCP-based AI agents**
 
-- 📄 Know about my experiences: [LinkedIn](https://www.linkedin.com/in/anupssingh/)
+- 📄 Know about my experiences: [Resume](./Anup_Singh_Resume.pdf) · [LinkedIn](https://www.linkedin.com/in/anupssingh/)
 
 - 🏆 Knight on LeetCode — [top 3.81% globally](https://leetcode.com/u/QuantumBot/)
 
